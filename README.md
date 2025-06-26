@@ -1,8 +1,9 @@
 # Hi, I'm Gabriel Júlio
-
-🎯 **Sports Scientist turned Data Scientist**  
-🏊‍♂️ **Swimming Coach | Aspiring Data Scientist & AI Engineer | Passionate About Tech & Human Performance**  
-📍 Coimbra, Portugal
+  
+🎯 **Swimming Coach | Aspiring Data Scientist & AI Engineer | Passionate About Tech & Human Performance**  
+📍 Coimbra, Portugal 
+📫 [Email](mailto:gabijajulio179@gmail.com) 
+💼[LinkedIn](https://linkedin.com/in/gabriel-júlio-7316a1226)
 
 ---
 
