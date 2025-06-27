@@ -34,20 +34,13 @@ At the same time, I have been actively building a second path in an area that ha
 
 **Tools**  
 - Linux  
-- Git & GitHub  
+- Git 
 - Jupyter Notebooks  
 - Docker  
 
 ---
 
 ## 🧪 Projects (Coming Soon!)
-
----
-
-## 🔗 Let's Connect
-
-- 📫 [Email](mailto:gabijajulio179@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/gabriel-júlio-7316a1226)
 
 ---
 
